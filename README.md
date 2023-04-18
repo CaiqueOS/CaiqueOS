@@ -5,9 +5,8 @@
 
 <br>
 
-- 💻 Atualmente trabalho com Suporte Tecnico do sistema <a href="https://education1.com.br/?gclid=Cj0KCQjwn4qWBhCvARIsAFNAMiisFx-x3ghD5T9hbgohg7YYWHkErIB3NdyaPnBan1mDF6WsiYc_0PwaAqTLEALw_wcB" target="_blank">Education1</a>
+- 💻 Atualmente trabalho como Desenvolvedor Júnior do sistema <a href="https://education1.com.br/?gclid=Cj0KCQjwn4qWBhCvARIsAFNAMiisFx-x3ghD5T9hbgohg7YYWHkErIB3NdyaPnBan1mDF6WsiYc_0PwaAqTLEALw_wcB" target="_blank">Education1</a>
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba
-- 📚 No momento estudando JS e PHP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiqueos&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
