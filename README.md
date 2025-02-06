@@ -6,7 +6,7 @@
 <br>
 
 - 💻 Atualmente trabalho como Desenvolvedor Júnior do sistema <a href="https://education1.com.br/?gclid=Cj0KCQjwn4qWBhCvARIsAFNAMiisFx-x3ghD5T9hbgohg7YYWHkErIB3NdyaPnBan1mDF6WsiYc_0PwaAqTLEALw_wcB" target="_blank">Education1</a>
-- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na FATEC Sorocaba
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiqueos&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,14 +19,6 @@
 <h4>Onde você pode me encontrar:</h4>
 
 <div>
-  <a href="https://www.instagram.com/caique.14/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="https://www.twitch.tv/angusbk5636" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  
   <a href="https://www.linkedin.com/in/Caique-OS" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
