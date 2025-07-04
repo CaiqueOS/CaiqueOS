@@ -27,7 +27,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
 </div>
-
-<br>
-
-<p align="center">E se quiser me conhecer um pouco melhor, pode dar uma olhada no meu <a href="https://caiqueos.github.io/Portfolio/" target="_blank">Portfolio</a>, para descobrir meus contatos e outras coisas sobre mim!</p>
